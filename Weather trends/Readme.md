@@ -1,5 +1,10 @@
 
 ## Explore Weather Trends
+Prerequisites:
+1.Annaconda
+2.Python packages matplotlib,numpy etc.
+3.Missingno
+4.sklearn
 
 
 ### Summary
