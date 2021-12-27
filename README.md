@@ -9,6 +9,7 @@ You will need an installation of Python, plus the following libraries:
 * NumPy
 
 * Matplotlib
+
 I recommend installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 Projects to learn the data analysis process using python and it's libraries.
